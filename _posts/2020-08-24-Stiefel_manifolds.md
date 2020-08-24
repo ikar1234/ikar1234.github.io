@@ -1,4 +1,3 @@
-
 ---
 title: 'Optimization on Stiefel manifolds'
 date: 2020-08-24
