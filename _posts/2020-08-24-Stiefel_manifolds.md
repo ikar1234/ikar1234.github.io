@@ -2,7 +2,7 @@
 ---
 title: 'Optimization on Stiefel manifolds'
 date: 2020-08-24
-permalink: /posts/2020/08/blog-post-1/
+permalink: /posts/2020/08/2020-08-24-stiefel_manifolds/
 tags:
   - optimization
   - differential topology
