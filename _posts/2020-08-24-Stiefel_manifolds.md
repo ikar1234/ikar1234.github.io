@@ -71,7 +71,7 @@ This reduces the matrix size from $n \times n$ to $2p \times 2p$.
 TODO: explain
 Curvilinear search
 -----
-<b>Curvilinear Search:</b>
+
 Initialize $\tau$ to a non-zero value.
 
 $\begin{array}{l}
