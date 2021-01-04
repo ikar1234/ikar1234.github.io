@@ -1,6 +1,6 @@
 ---
 title: "UMFRATO Survey Tool"
-excerpt: "Overview of the project and tool<br/><img src='/images/des_over.png'>"
+excerpt: "Web application for creating surveys made with Vue.js<br/><br/><img src='/images/des_over.png'>"
 collection: portfolio
 ---
 
