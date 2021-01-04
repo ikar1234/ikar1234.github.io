@@ -1,6 +1,6 @@
 ---
-title: "UMFRATO Suvrey Tool"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "UMFRATO Survey Tool"
+excerpt: "Overview of the project and tool<br/><img src='/images/des_over.png'>"
 collection: portfolio
 ---
 
@@ -9,6 +9,10 @@ UMFRATO is an award-winning tool for survey creation, completion and evaluation 
 The frontend was made with Vue.js and Javascript, while for the backend we used the Spring framework.
 
 I was mainly responsible for the frontend-part of the project since I already had some practical experience with Vue and Javascript.
+
+Our tool won <b>1st place</b> in a competition with other teams, with the criteria ranging from documentation and testing to usability and user-friendliness.
+
+Overall,  I have to say that this project really made me go deeper into Vue and inspired me to further develop my web development skills.
 
 Here you can see some of the main functonalities of the app. It is in german, but it is not hard to make out the purpose of each component.
 
