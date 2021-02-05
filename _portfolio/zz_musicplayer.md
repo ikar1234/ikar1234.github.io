@@ -1,6 +1,6 @@
 ---
 title: "Music App"
-excerpt: "Java desktop application for music<br/><br/><img src='/images/des_over.png'>"
+excerpt: "Java desktop application for music<br/><br/><img src='/images/gseradio.png'>"
 collection: portfolio
 ---
 In this project, I used the MVC pattern to implement a desktop music player. The app has a client-server architecture and can be used simultaneously by multiple users. 
