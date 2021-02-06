@@ -6,4 +6,6 @@ collection: portfolio
 
 This simple application uses JavaFX to simulate different types of erosion on a variety of landscapes. 
 
+Using the keys, the user can change the water level, plant/remove trees and so on.
+
 <img src='/images/erosion2.png'>
