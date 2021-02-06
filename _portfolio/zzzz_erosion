@@ -1,0 +1,9 @@
+---
+title: "Erosion Simulator (in progress)"
+excerpt: "Desktop application made with JavaFX for erosion simulation.<br/><br/><img src='/images/erosion.png'>"
+collection: portfolio
+---
+
+This simple application uses JavaFX to simulate different types of erosion on a variety of landscapes. 
+
+<img src='/images/erosion2.png'>
