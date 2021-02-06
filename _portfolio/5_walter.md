@@ -8,7 +8,11 @@ This simple game uses JavaFX to simulate a robot in a maze. The goal is to reach
 
 The game supports two different views and multiple levels. New levels can be created by the user. 
 
+Level 1:
 
 <img src='/images/walter.png'>
+
+
+Level 3:
 
 <img src='/images/walter2.png'>
